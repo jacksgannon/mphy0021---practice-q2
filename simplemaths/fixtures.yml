@@ -1,0 +1,14 @@
+---
+positive:
+    - 4
+positive_odd:
+    - 5
+negative:
+    - -5
+string:
+    - "five"
+boolean: 
+    - True
+float:
+    - 4.55
+...
